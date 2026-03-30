@@ -1,0 +1,110 @@
+{
+  "": {
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/primary.swiftdeps"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/AppDelegate.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/AppDelegate.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/AppDelegate.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Editor/EditorTextView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorTextView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorTextView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorTextView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorTextView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Editor/EditorView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/EditorView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Editor/LineNumberRulerView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/LineNumberRulerView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/LineNumberRulerView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/LineNumberRulerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/LineNumberRulerView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/LineNumberRulerView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Editor/SyntaxHighlighter.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/SyntaxHighlighter.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/SyntaxHighlighter.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/SyntaxHighlighter~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/SyntaxHighlighter.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/SyntaxHighlighter.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Models/Document.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Document.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Document.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Document~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Document.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Document.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Models/DocumentManager.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/DocumentManager.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/DocumentManager.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/DocumentManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/DocumentManager.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/DocumentManager.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Models/Language.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Language.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Language.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Language~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Language.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/Language.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/NoteMacPlusPlusApp.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/NoteMacPlusPlusApp.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/NoteMacPlusPlusApp.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/NoteMacPlusPlusApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/NoteMacPlusPlusApp.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/NoteMacPlusPlusApp.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Views/ContentView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/ContentView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/ContentView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/ContentView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Views/FileBrowserView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FileBrowserView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FileBrowserView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FileBrowserView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FileBrowserView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FileBrowserView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Views/FindReplaceView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FindReplaceView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FindReplaceView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FindReplaceView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FindReplaceView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/FindReplaceView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Views/PreferencesView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/PreferencesView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/PreferencesView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/PreferencesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/PreferencesView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/PreferencesView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Views/StatusBarView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/StatusBarView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/StatusBarView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/StatusBarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/StatusBarView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/StatusBarView.dia"
+  },
+  "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/Sources/NoteMacPlusPlus/Views/TabBarView.swift": {
+    "dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/TabBarView.d",
+    "object": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/TabBarView.swift.o",
+    "swiftmodule": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/TabBarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/TabBarView.swiftdeps",
+    "diagnostics": "/Users/enmanuelrosado/Library/CloudStorage/OneDrive-Personal/Projects/notemac++/.build/arm64-apple-macosx/debug/NoteMacPlusPlus.build/TabBarView.dia"
+  }
+}
